@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tirupati Singh</h1>
+<h1 align="center">Hi, I'm Tirupati Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 📫 How to reach me **https://github.com/singhtirupati**
