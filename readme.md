@@ -60,7 +60,7 @@
 
 <br/>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> </h2>
 <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/tirupati-singh-a3825120b/"><img alt="Linkedin" title="Tirupati Singh Linkedin" src="https://img.shields.io/badge/-tirupati%20singh%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/singhtirupati"><img alt="Github" title="Tirupati Singh Github" src="https://img.shields.io/badge/singhtirupati-100000?style=for-the-badge&logo=github&logoColor=white"></a>
