@@ -39,9 +39,9 @@
  ### 👉 Competitive Programming & Problem Solving
  
 <p>
-    <a href="https://leetcode.com/Tirupati_27/" target="blank"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-    <a href="https://www.hackerrank.com/tirupatisingh101" target="blank"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-    <a href="https://www.codechef.com/users/tirupati_27" target="blank"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+    <a href="https://leetcode.com/Tirupati_27/" target="_blank"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+    <a href="https://www.hackerrank.com/tirupatisingh101" target="_blank"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+    <a href="https://www.codechef.com/users/tirupati_27" target="_blank"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
 
  ### 👉 Operating Systems
@@ -62,14 +62,14 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> </h2>
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/tirupati-singh-a3825120b/"><img alt="Linkedin" title="Tirupati Singh Linkedin" src="https://img.shields.io/badge/-tirupati%20singh%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/singhtirupati"><img alt="Github" title="Tirupati Singh Github" src="https://img.shields.io/badge/singhtirupati-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.facebook.com/tirupati.singh.27"><img alt="Facebook" title="Tirupati Singh FB" src="https://img.shields.io/badge/tirupati.singh.27-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://www.instagram.com/tirupati_singh_27/"><img alt="Instagram" title="Tirupati Singh Instagram" src="https://img.shields.io/badge/tirupati__singh__27-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tirupati-singh-a3825120b/" target="_blank"><img alt="Linkedin" title="Tirupati Singh Linkedin" src="https://img.shields.io/badge/-tirupati%20singh%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/singhtirupati" target="_blank"><img alt="Github" title="Tirupati Singh Github" src="https://img.shields.io/badge/singhtirupati-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.facebook.com/tirupati.singh.27" target="_blank"><img alt="Facebook" title="Tirupati Singh FB" src="https://img.shields.io/badge/tirupati.singh.27-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/tirupati_singh_27/" target="_blank"><img alt="Instagram" title="Tirupati Singh Instagram" src="https://img.shields.io/badge/tirupati__singh__27-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
  <p align="center">
   <a href="mailto:tirupatisingh1027@gmail.com"><img alt="Gmail" title="Tirupati Singh Gmail" src="https://img.shields.io/badge/tirupatisingh1027@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/83a7cd00-a7de-434a-9fb1-f39a907ccea8"><img alt="Qwiklabs" title="Tirupati Singh Qwiklabs" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/83a7cd00-a7de-434a-9fb1-f39a907ccea8" target="_blank"><img alt="Qwiklabs" title="Tirupati Singh Qwiklabs" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -81,4 +81,4 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 Credits: [Tirupati Singh](https://github.com/singhtirupati)
 
-Last Edited on: 03/07/2022
+Last Edited on: 07/07/2022
