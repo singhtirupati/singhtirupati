@@ -63,6 +63,7 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/tirupati-singh-a3825120b/" target="_blank"><img alt="Linkedin" title="Tirupati Singh Linkedin" src="https://img.shields.io/badge/-tirupati%20singh%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/TirupatiSingh27" target="_blank"><img alt="Twitter" title="Tirupati Singh Twitter" src="https://img.shields.io/badge/-tirupati%20singh%20-0077B5?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://github.com/singhtirupati" target="_blank"><img alt="Github" title="Tirupati Singh Github" src="https://img.shields.io/badge/singhtirupati-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.facebook.com/tirupati.singh.27" target="_blank"><img alt="Facebook" title="Tirupati Singh FB" src="https://img.shields.io/badge/tirupati.singh.27-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://www.instagram.com/tirupati_singh_27/" target="_blank"><img alt="Instagram" title="Tirupati Singh Instagram" src="https://img.shields.io/badge/tirupati__singh__27-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
