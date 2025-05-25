@@ -14,28 +14,28 @@
 ### 👉 Programming languages
 
 <p>
-  <img alt="PHP" title="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img alt="C" title="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img alt="C++" title="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img alt="Java" title="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img alt="Python" title="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+  <a href="#"><img alt="PHP" title="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
+  <a href="#"><img alt="C" title="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+  <a href="#"><img alt="C++" title="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+  <a href="#"><img alt="Java" title="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+  <a href="#"><img alt="Python" title="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"></a>
 </p>
 
 
 ### 👉 Frontend Development
 
 <p>
-  <img alt="CSS" title="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="HTML" title="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <a href="#"><img alt="CSS" title="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="#"><img alt="HTML" title="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
 </p>
 
 
 ### 👉 CSS Frameworks & Preprocessors
 
 <p>
-  <img alt="Bootstrap" title="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img alt="SASS" title="SASS" src="https://img.shields.io/badge/Sass-C69.svg?style=for-the-badge&logo=sass&logoColor=white">
+  <a href="#"><img alt="Bootstrap" title="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+  <a href="#"><img alt="SASS" title="SASS" src="https://img.shields.io/badge/Sass-C69.svg?style=for-the-badge&logo=sass&logoColor=white"></a>
 </p>
 
 
@@ -50,7 +50,7 @@
  ### 👉 Databases
  
  <p>
-    <img alt="MySQL" title="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <a href="#"><img alt="MySQL" title="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
  </p>
  
  
@@ -66,9 +66,9 @@
  ### 👉 Developer Tools
  
 <p>
-  <img alt="Git" title="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="Linux" title="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img alt="Visual Studio Code" title="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <a href="#"><img alt="Git" title="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="#"><img alt="Linux" title="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+  <a href="#"><img alt="Visual Studio Code" title="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 </p>
 
 <br/>
@@ -99,4 +99,4 @@
 
 Credits: [Tirupati Singh](https://github.com/singhtirupati)
 
-Last Edited on: 25/05/2025
+Last Edited on: 26/05/2025
